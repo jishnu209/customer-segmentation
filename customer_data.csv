@@ -1,0 +1,11 @@
+age,gender,location,income_level,purchase_frequency,recency,total_spend,browsing_categories,preferred_brands
+25,Male,New York,Medium,5,10,300.5,Electronics,BrandA
+32,Female,Los Angeles,High,2,20,800.75,Clothing,BrandB
+47,Female,Chicago,High,8,5,1200.0,Home,BrandC
+51,Male,Houston,Medium,1,60,400.0,Electronics,BrandA
+22,Female,Phoenix,Low,3,30,150.25,Toys,BrandD
+36,Male,San Diego,Medium,5,15,600.6,Books,BrandB
+29,Female,Dallas,Medium,4,25,450.0,Clothing,BrandC
+41,Male,San Jose,High,2,55,900.0,Electronics,BrandA
+35,Female,Austin,Low,6,12,200.0,Home,BrandD
+23,Male,Jacksonville,Medium,1,40,350.0,Books,BrandB
